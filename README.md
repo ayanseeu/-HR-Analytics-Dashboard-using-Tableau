@@ -24,23 +24,19 @@ Average Age: 37
 
 Attrition Breakdown:
 
-Department-wise Attrition: R&D has the highest attrition (56.12%), followed by Sales and HR.
+  Department-wise Attrition: R&D has the highest attrition (56.12%), followed by Sales and HR.
 
-Field of Education: Life Sciences and Medical backgrounds show the highest attrition counts.
+  Field of Education: Life Sciences and Medical backgrounds show the highest attrition counts.
 
-Gender & Age-wise Attrition: Highest attrition in the 25–34 age group, with female attrition being relatively lower overall.
+  Gender & Age-wise Attrition: Highest attrition in the 25–34 age group, with female attrition being relatively lower overall.
 
 Employee Demographics:
 
 Age distribution is centered around 30–40 years.
 
-Education filters allow slicing data by qualification.
-
 Job Satisfaction Rating:
 
-Satisfaction scores by job role range from 1 to 4.
-
-Research Scientists and Laboratory Technicians show higher satisfaction scores compared to Sales Executives.
+Satisfaction scores by job role range from 1 to 4. Research Scientists and Laboratory Technicians show higher satisfaction scores compared to Sales Executives.
 
 🛠️ Tools Used
 Tableau – for data visualization and dashboard creation
